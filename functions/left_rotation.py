@@ -8,7 +8,6 @@ def left_rotation(arr, times):
         arr[len(arr) - 1] = x
 
 
-
 if __name__ == "__main__":
     arr = [1, 5, 3, 9, 2]
     left_rotation(arr, 1)
